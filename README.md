@@ -1,8 +1,42 @@
-# React + Vite
+# User Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the User Management App! This web application is built using React, Tailwind CSS, and the Random User API. It provides features for user data management, including searching, displaying user details, and smooth animations for a polished and professional experience.
 
-Currently, two official plugins are available:
+- **Deployed Link :-** https://user-data-by-prashant-malviya.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **User Data Management**: Displays user information fetched from the Random User API.
+- **Search Functionality**: Allows searching users by name.
+- **Smooth Animations**: Uses Tailwind CSS for responsive and fluid animations to enhance the user experience.
+- **Professional UI**: Clean and modern design with intuitive layout and features.
+
+## Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for designing custom UIs.
+- **Random User API**: A free API that generates random user data for development and testing purposes.
+
+## Installation
+
+Follow these steps to set up and run the app locally:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/user-management-app.git
+```
+
+### 2. Install dependencies and run the app
+
+```bash
+cd user-data
+```
+
+```bash
+npm install
+```
+### 3. Run the app
+```bash
+npm run dev
+```
